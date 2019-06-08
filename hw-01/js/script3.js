@@ -22,5 +22,4 @@ switch (chooseCountry) {
   default:
       message = 'В вашей стране доставка не доступна';
 }
-
 alert(message);
